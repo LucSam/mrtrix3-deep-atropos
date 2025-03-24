@@ -1,0 +1,20 @@
+<svg height="43.5" version="1.1" width="45.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -.79995463 -.79995463 0 841.15836 1049.4613)" gradientUnits="userSpaceOnUse" x1="5.9443078" x2="40.058289" y1="1014.022" y2="1029.959">
+    <stop offset="0" stop-color="#493100"/>
+    <stop offset=".61322409" stop-color="#9e6b00"/>
+    <stop offset="1" stop-color="#f3a500"/>
+  </linearGradient>
+  <linearGradient id="b" gradientTransform="matrix(0 -.79995463 .79995463 0 -796.32928 1049.4613)" gradientUnits="userSpaceOnUse" x1="27.109509" x2="9.9688272" y1="1016.7151" y2="1029.8936">
+    <stop offset="0" stop-color="#ffdb83"/>
+    <stop offset="1" stop-color="#ffc22c"/>
+  </linearGradient>
+  <linearGradient id="c" gradientTransform="matrix(.46940865 .22850447 -.26011777 .53435075 21.71722 999.99014)" gradientUnits="userSpaceOnUse" x1="2.2770658" x2="45.786045" y1="21.469494" y2="29.750875">
+    <stop offset="0" stop-color="#078a1d"/>
+    <stop offset="1" stop-color="#1eff45"/>
+  </linearGradient>
+  <g stroke="#000" transform="matrix(1.2500709 0 0 1.2500709 -6.904793627029 -1262.363005230513)">
+    <path d="m 36.987686 1021.4033 l -19.5802 0 c -.1649 -.9596 -.9393 -1.6922 -1.8641 -1.6922 l -4.3496 0 c -.9249 0 -1.6991998 .7326 -1.8641998 1.6922 l -1.4881 0 c -1.0438 0 -1.8978 .9326 -1.8978 2.0723 l 0 18.7047 c 0 1.1398 .854 2.0723 1.8978 2.0723 l 29.1461998 0 c 1.0437 0 1.8977 -.9325 1.8977 -2.0723 l 0 -18.7047 c 0 -1.1397 -.854 -2.0723 -1.8977 -2.0723 z" fill="url(#a)" stroke-width=".39997733"/>
+    <path d="m 8.5312862 1028.2522 c .1815 -1.1224 1.184 -2.0407 2.2276998 -2.0407 l 29.1463 0 c 1.0437 0 1.749 .9183 1.5677 2.0407 l -2.2576 13.9598 c -.1816 1.1223 -1.184 2.0407 -2.2278 2.0407 l -29.1461998 0 c -1.0437 0 -1.749 -.9184 -1.5676 -2.0407 l 2.2575 -13.9598 z" fill="url(#b)" stroke-width=".39997733"/>
+    <path d="m 13.498109 1017.4707 c 5.881026 -9.6954 19.115966 -9.6227 22.306151 .5229 c 2.918101 -1.2234 3.566237 -2.5157 4.505057 -2.0587 c .938819 .4571 -3.759391 11.4354 -5.218405 12.0471 c -1.459056 .6118 -12.333951 -4.4174 -12.07379 -4.9517 c .260085 -.5342 4.592978 -.8081 5.541318 -1.9752 c -1.883623 -6.8658 -7.962337 -5.4736 -15.060331 -3.5844 z" fill="url(#c)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".55701613"/>
+  </g>
+</svg>

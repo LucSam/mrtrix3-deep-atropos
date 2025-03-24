@@ -1,0 +1,35 @@
+<svg height="48" version="1.1" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a">
+    <stop offset="0"/>
+    <stop offset="1" stop-color="#fff"/>
+  </linearGradient>
+  <linearGradient id="b">
+    <stop offset="0" stop-color="#b8b8b8"/>
+    <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" gradientTransform="matrix(1.4381277 0 0 1.4825454 -92.488341 993.52226)" gradientUnits="userSpaceOnUse" x1="72" x2="72" xlink:href="#a" y1="8" y2="39"/>
+  <linearGradient id="d" gradientTransform="matrix(1.4381277 0 0 1.4825454 -92.488341 993.52226)" gradientUnits="userSpaceOnUse" x1="68.235466" x2="68.235466" xlink:href="#b" y1="8.0628014" y2="39.029236"/>
+  <linearGradient id="e" gradientTransform="matrix(1.4381277 0 0 1.4825454 -10.515064 496.2314)" gradientUnits="userSpaceOnUse" x1="34.456959" x2="34.456959" xlink:href="#a" y1="-1043.9703" y2="-1012.8885"/>
+  <linearGradient id="f" gradientTransform="matrix(1.4381277 0 0 1.4825454 -68.040171 -1063.202)" gradientUnits="userSpaceOnUse" x1="70.856293" x2="70.856293" xlink:href="#b" y1="8.1199675" y2="39.014877"/>
+  <radialGradient id="g" cx="22.999987858806" cy="25.475765" gradientUnits="userSpaceOnUse" r="13.419355">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset="1" stop-color="#8a7eb0"/>
+  </radialGradient>
+  <g transform="matrix(.47744382 0 0 .47744382 25.077902 -454.59343)">
+    <rect fill="url(#c)" height="45.958904" ry="1.0253265" stroke="url(#d)" stroke-width="2" width="21.571915" x=".98995751" y="1005.3828"/>
+    <rect fill="url(#e)" height="45.958904" ry="1.0253265" stroke="url(#f)" stroke-width="2" transform="scale(1 -1)" width="21.571915" x="25.438128" y="-1051.3417"/>
+    <g stroke="#000" transform="matrix(1.4372989 0 0 1.4372989 -52.525346 -491.09471)">
+      <path d="M 36 26 A 13 13 0 0 1 23 39 A 13 13 0 0 1 10 26 A 13 13 0 0 1 23 13 A 13 13 0 0 1 36 26 Z" fill="url(#g)" stroke-width="1.6774193" transform="matrix(1.1923077 0 0 1.1923077 -3.4230771 997.3622)"/>
+      <g fill="none" stroke-linecap="round">
+        <g stroke-width="2">
+          <path d="m 24 1038.3622 l 0 13"/>
+          <path d="m 47 1028.3622 l -13 0"/>
+          <path d="m 14 1028.3622 l -13 0"/>
+        </g>
+        <path d="m 27.5 1028.3622 l -7 0"/>
+        <path d="m 24 1024.8622 l 0 7"/>
+        <path d="m 24 1005.3622 l 0 13" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

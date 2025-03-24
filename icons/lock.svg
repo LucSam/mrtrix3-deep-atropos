@@ -1,0 +1,34 @@
+<svg height="49.014244" version="1.1" width="49.014244" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <radialGradient id="a" cx="42.484158" cy="40.423557" gradientTransform="matrix(1 0 0 .94262112 0 2.3194583)" gradientUnits="userSpaceOnUse" r="18.484159">
+    <stop offset="0" stop-color="#f00"/>
+    <stop offset=".62806475" stop-color="#f00"/>
+    <stop offset="1" stop-color="#7e0000"/>
+  </radialGradient>
+  <radialGradient id="b" cx="24" cy="1028.7372" gradientTransform="matrix(1.7513153 -.000002046858 .000001965649 1.6824352 -18.033579 -702.04647)" gradientUnits="userSpaceOnUse" r="10">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset="1" stop-color="#f4f4f4"/>
+  </radialGradient>
+  <radialGradient id="c" cx="69.236534" cy="2.2229593" gradientTransform="matrix(1.1199609 -.01456771 .01367393 1.0512475 -5.877308 3.0646378)" gradientUnits="userSpaceOnUse" r="25.271166">
+    <stop offset="0" stop-color="#f6f6f6"/>
+    <stop offset="1" stop-color="#555"/>
+  </radialGradient>
+  <g transform="translate(.50712124 -1003.8551)">
+    <g fill="none" stroke="#000" stroke-linecap="round">
+      <path d="m 0 1013.3622 l 48 0"/>
+      <path d="m 0 1023.3622 l 48 0"/>
+      <path d="m 0 1033.3622 l 48 0"/>
+      <path d="m 0 1043.3622 l 48 0"/>
+    </g>
+    <g fill="none" stroke="#000" stroke-linecap="round" transform="matrix(0 -1 1 0 -1003.3622 1052.3622)">
+      <path d="m 0 1013.3622 l 48 0"/>
+      <path d="m 0 1023.3622 l 48 0"/>
+      <path d="m 0 1033.3622 l 48 0"/>
+      <path d="m 0 1043.3622 l 48 0"/>
+    </g>
+    <g transform="matrix(.66342607 0 0 .66342607 .38388922 353.8138)">
+      <ellipse cx="42.484158" cy="40.423557" fill="url(#a)" rx="18.484159" ry="17.423559" transform="matrix(1.1902083 0 0 1.2626582 -26.564997 977.32109)"/>
+      <path d="m 24 1013.007 c -10.94272 0 -9.848448 13.1313 -9.848448 13.1313 l -1.094272 0 l 0 7.6599 c 0 14.2255 21.88544 14.2255 21.88544 0 l 0 -7.6599 l -1.094272 0 c 0 0 1.094272 -13.1313 -9.848448 -13.1313 z m 0 3.2828 c 7.659904 0 6.565632 9.8485 6.565632 9.8485 l -13.131264 0 c 0 0 -1.094272 -9.8485 6.565632 -9.8485 z m 0 13.1313 c 3.282816 0 2.188544 3.2829 1.094272 3.2829 l 1.094272 5.4713 l -4.377088 0 l 1.094272 -5.4713 c -1.094272 0 -2.188544 -3.2829 1.094272 -3.2829 z" fill="url(#b)"/>
+      <circle cx="87.065262" cy="20.628773" fill="none" r="24.070175" stroke="url(#c)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.40198016" transform="matrix(.94969899 0 0 .94969899 -58.685791 1008.7711)"/>
+    </g>
+  </g>
+</svg>

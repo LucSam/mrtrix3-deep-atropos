@@ -1,0 +1,26 @@
+<svg height="32" version="1.1" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a">
+    <stop offset="0"/>
+    <stop offset="1" stop-color="#fff"/>
+  </linearGradient>
+  <linearGradient id="b">
+    <stop offset="0" stop-color="#b8b8b8"/>
+    <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="10.9949312" x2="10.9949312" xlink:href="#a" y1="1005.9123028" y2="1050.9465174"/>
+  <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="5.526130166936" x2="5.526130166936" xlink:href="#b" y1="1006.003535436283" y2="1050.988989022518"/>
+  <linearGradient id="e" gradientUnits="userSpaceOnUse" x1="39.260378324819" x2="39.260378324819" xlink:href="#a" y1="-1051.10370471698" y2="-1005.9506578991"/>
+  <linearGradient id="f" gradientUnits="userSpaceOnUse" x1="34.029631055564" x2="34.029631055564" xlink:href="#b" y1="-1050.77238842129" y2="-1005.890840535142"/>
+  <g transform="translate(0 -1020.3622)">
+    <g stroke-width="2.37434649" transform="matrix(.42116852 0 0 .42116852 11.573319 609.23655)">
+      <rect fill="url(#c)" height="45.034214" ry="1.004697" stroke="url(#d)" stroke-width="2.37434649" width="21.790749" x=".8259148" y="1005.9124"/>
+      <rect fill="url(#e)" height="45.034214" ry="1.004697" stroke="url(#f)" stroke-width="2.37434649" transform="scale(1 -1)" width="21.790749" x="25.522097" y="-1050.9467"/>
+    </g>
+    <g fill="none" stroke-linecap="round" transform="translate(-14 -6)">
+      <path d="m 22.5 1027.8622 c 0 0 0 14 0 14" stroke="#000" stroke-width="3"/>
+      <path d="m 29.5 1034.8622 c 0 0 -14 0 -14 0" stroke="#000" stroke-width="3"/>
+      <path d="m 22.5 1027.8622 c 0 0 0 14 0 14" stroke="#fff"/>
+      <path d="m 29.5 1034.8622 c 0 0 -14 0 -14 0" stroke="#fff"/>
+    </g>
+  </g>
+</svg>

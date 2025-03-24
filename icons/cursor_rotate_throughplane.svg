@@ -1,0 +1,15 @@
+<svg height="32" version="1.1" width="32" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-233 -451.36218)">
+    <g fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9109236" transform="matrix(.52330716 0 0 .52330716 120.32888 230.74104)">
+      <path d="m 270.5 450.86218 c 4 4 0 7 0 9 c 0 2 5 3 5 5 c 0 2.00001 -12 0 -14 -2 c -2 -2 -5 -15 -3 -15 c 2 0 3 5 5 5 c 2 0 4 -5 0 -9"/>
+      <path d="m 244.5 476.86218 c 4 4 7 0 9 0 c 2 0 3 5 5 5 c 2 0 0 -12 -2 -14 c -2 -2 -15 -5 -15 -3 c 0 2 5 3 5 5 c 0 2 -5 4 -9 0"/>
+      <path d="m 244.575 476.90593 c -1.73125 -1.73125 -4.70266 -4.80127 -7.075 -7.04375 c -4 -4 -3 -13 5 -21 c 8 -8 17 -9 21 -5 c 2.24248 2.37234 9.90937 9.94063 7.04375 7.075 c -2.86562 -2.86563 -13.04375 .925 -19.04375 6.925 c -6 6 -10.925 15.04375 -6.925 19.04375 z"/>
+    </g>
+    <g fill="none" stroke-linecap="round" transform="translate(219 -575.00002)">
+      <path d="m 22.5 1027.8622 c 0 0 0 14 0 14" stroke="#000" stroke-width="3"/>
+      <path d="m 29.5 1034.8622 c 0 0 -14 0 -14 0" stroke="#000" stroke-width="3"/>
+      <path d="m 22.5 1027.8622 c 0 0 0 14 0 14" stroke="#fff"/>
+      <path d="m 29.5 1034.8622 c 0 0 -14 0 -14 0" stroke="#fff"/>
+    </g>
+  </g>
+</svg>

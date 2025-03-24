@@ -1,0 +1,27 @@
+<svg height="46.5" version="1.1" width="45.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="32.790001" x2="12.066998" y1="1048.4437" y2="1007.1312">
+    <stop offset="0" stop-color="#006bd3"/>
+    <stop offset="1" stop-color="#77bcff"/>
+  </linearGradient>
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="20.297066" x2="25.96266" y1="1005.7239" y2="1021.1918">
+    <stop offset="0" stop-color="#dfdfdf"/>
+    <stop offset="1" stop-color="#7e7e7e"/>
+  </linearGradient>
+  <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="22.244541" x2="28.257824" y1="1029.3348" y2="1049.3107">
+    <stop offset="0" stop-color="#fff8de"/>
+    <stop offset="1" stop-color="#fff2c5"/>
+  </linearGradient>
+  <g stroke="#000" stroke-linecap="round" transform="translate(-.8659985 -1005.2562)">
+    <path d="m 4.2991699 1005.8022 l 34.4204531 0 c .457029 0 7.072374 6.213 7.072374 6.6747 l 0 35.8742 c 0 1.5839 -1.275189 2.8591 -2.85917 2.8591 l -38.6336571 0 C 2.7151898 1051.2102 1.44 1049.935 1.44 1048.3511 l 0 -39.6897 c 0 -1.584 1.2751898 -2.8592 2.8591699 -2.8592 z" fill="url(#a)" stroke-linejoin="round" stroke-width=".80000001"/>
+    <path d="m 11.030214 1005.8959 l 25.173361 0 c 0 3.3181 -.0019 9.7076 -.0019 13.5144 c 0 1.626 -1.378284 2.9352 -3.090322 2.9352 l -18.992608 0 c -1.712037 0 -3.090323 -1.3092 -3.090323 -2.9352 c 0 -3.2107 .0018 -10.4923 .0018 -13.5144 z" fill="url(#b)" stroke-width=".55459696"/>
+    <g stroke-linejoin="round">
+      <rect height="12.578199" ry=".69328666" stroke-width=".66133356" width="6.0374622" x="25.939939" y="1007.1245"/>
+      <path d="M 7.57269 1028.0592 H 39.659307 V 1051.116657 H 7.57269 Z" fill="url(#c)" stroke-width=".70833564"/>
+      <g stroke-width=".80000001">
+        <rect height="1.5625" ry=".69328701" width="23.9375" x="11.6472485" y="1032.66607497"/>
+        <rect height="1.5625" ry=".69328701" width="23.9375" x="11.6472485" y="1044.94727497"/>
+        <rect height="1.5625" ry=".69328701" width="23.9375" x="11.6472485" y="1038.80667497"/>
+      </g>
+    </g>
+  </g>
+</svg>

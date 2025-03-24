@@ -1,0 +1,7 @@
+<svg height="32" version="1.1" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(1.0305983 0 0 1.030845 -7.1036799 -14.931211)" gradientUnits="userSpaceOnUse" x1="249.5" x2="249.5" y1="469.86218" y2="465.86218">
+    <stop offset="0" stop-color="#f7ab00"/>
+    <stop offset="1" stop-color="#ffe004"/>
+  </linearGradient>
+  <path d="m 255.18359 472.5164 l 0 7.21592 l 9.27538 -12.37014 l -9.27538 -12.37014 l 0 7.21591 l -6.18359 0 l -6.1836 0 l 0 -7.21591 l -9.27538 12.37014 l 9.27538 12.37014 l 0 -7.21592 l 6.1836 0 z" fill="url(#a)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" transform="translate(-233 -451.36218)"/>
+</svg>
